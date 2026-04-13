@@ -102,11 +102,10 @@ This project demonstrates an end-to-end machine learning workflow, including dat
 
 ## 🔮 Future Work
 - Deploy using Streamlit or Flask  
-- Add real-time prediction interface  
-- Experiment with XGBoost / LightGBM  
+- Add real-time prediction interface   
 - Apply cross-validation  
 
 ---
 
 ## 👨‍💻 Author
-Your Name
+Disha C
